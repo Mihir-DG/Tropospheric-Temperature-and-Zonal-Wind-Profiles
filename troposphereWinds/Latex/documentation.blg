@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: documentation.aux
+The style file: plain.bst
+Database file #1: documentation.bib
+Warning--empty journal in hatzianastassiou2007direct
+Warning--empty school in phdthesis
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            517 strings with 4837 characters,
+and the built_in function-call counts, 1475 in all, are:
+= -- 126
+> -- 115
+< -- 0
++ -- 49
+- -- 42
+* -- 122
+:= -- 275
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 42
+empty$ -- 81
+format.name$ -- 42
+if$ -- 274
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 0
+skip$ -- 27
+stack$ -- 0
+substring$ -- 48
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 2
+while$ -- 10
+width$ -- 5
+write$ -- 42
+(There were 2 warnings)

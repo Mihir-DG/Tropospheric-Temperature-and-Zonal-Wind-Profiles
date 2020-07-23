@@ -1,0 +1,61 @@
+\contentsline {section}{\numberline {1}Introduction}{iii}{section.1}% 
+\contentsline {section}{\numberline {2}Using Pressure As A Measure of Altitude}{iv}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Hydrostatic equilibrium and its role in the atmosphere}{iv}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Pressure Gradient Force}{v}{subsubsection.2.1.1}% 
+\contentsline {section}{\numberline {3}Module 1: Air Temperature In The Troposphere}{vi}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Task 1: Air Temperature As A Function Of Latitude}{vi}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Changes In Temperature Latitudinally}{vi}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Changes In Temperature Across Altitudes}{vii}{subsubsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.2}Task 2: Seasonal Temperature Profiles As A Function Of Latitude}{vii}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}850 Millibars}{vii}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}250 Millibars}{viii}{subsubsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.3}Task 3: Temperature As A Function Of Latitude And Altitude}{viii}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Color Map}{ix}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Contour Map}{ix}{subsubsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.4}Task 4: Global Air Temperatures}{x}{subsection.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}Equirectangular}{x}{subsubsection.3.4.1}% 
+\contentsline {subsubsection}{\numberline {3.4.2}Orthographic}{xi}{subsubsection.3.4.2}% 
+\contentsline {paragraph}{\numberline {3.4.2.1}850 Millibars}{xi}{paragraph.3.4.2.1}% 
+\contentsline {paragraph}{\numberline {3.4.2.2}250 Millibars}{xii}{paragraph.3.4.2.2}% 
+\contentsline {subsubsection}{\numberline {3.4.3}South Polar Projection}{xiii}{subsubsection.3.4.3}% 
+\contentsline {subsubsection}{\numberline {3.4.4}North Polar Projection}{xiv}{subsubsection.3.4.4}% 
+\contentsline {section}{\numberline {4}Module 2: Zonal Winds In The Troposphere}{xv}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Task 1: Zonal Wind As A Function Of Latitude}{xv}{subsection.4.1}% 
+\contentsline {subsubsection}{\numberline {4.1.1}850 millibars}{xv}{subsubsection.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.1.2}250 millibars}{xv}{subsubsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.2}Task 2: Seasonal Zonal Wind As A Function Of Latitude}{xvi}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Winter Vs Summer At 850 millibars}{xvi}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}Winter Vs Summer at 250 millibars}{xvi}{subsubsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.3}Task 3: Zonal Wind As A Function Of Latitude and Altitude}{xvii}{subsection.4.3}% 
+\contentsline {subsubsection}{\numberline {4.3.1}Color Map}{xvii}{subsubsection.4.3.1}% 
+\contentsline {subsubsection}{\numberline {4.3.2}Contour Map}{xviii}{subsubsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.4}Task 4: Global Zonal Winds}{xix}{subsection.4.4}% 
+\contentsline {subsubsection}{\numberline {4.4.1}Equirectangular Projection}{xix}{subsubsection.4.4.1}% 
+\contentsline {subsubsection}{\numberline {4.4.2}North Polar Projection}{xxi}{subsubsection.4.4.2}% 
+\contentsline {subsubsection}{\numberline {4.4.3}Orthographic}{xxii}{subsubsection.4.4.3}% 
+\contentsline {paragraph}{\numberline {4.4.3.1}850 Millibars}{xxii}{paragraph.4.4.3.1}% 
+\contentsline {paragraph}{\numberline {4.4.3.2}250 Millibars}{xxiii}{paragraph.4.4.3.2}% 
+\contentsline {section}{\numberline {5}Module 3: Meridional Winds In The Troposphere}{xxiv}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Task 1: Meridional Wind As A Function Of Latitude}{xxiv}{subsection.5.1}% 
+\contentsline {subsubsection}{\numberline {5.1.1}850 Millibars}{xxiv}{subsubsection.5.1.1}% 
+\contentsline {subsubsection}{\numberline {5.1.2}250 Millibars}{xxiv}{subsubsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.2}Task 2: Seasonal Meridional Wind As A Function Of Latitude}{xxiv}{subsection.5.2}% 
+\contentsline {subsubsection}{\numberline {5.2.1}850 Millibars}{xxiv}{subsubsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5.2.2}250 Millibars}{xxv}{subsubsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.3}Task 3: Meridional Wind As A Function of Latitude And Altitude}{xxvi}{subsection.5.3}% 
+\contentsline {subsubsection}{\numberline {5.3.1}Colour Map}{xxvi}{subsubsection.5.3.1}% 
+\contentsline {subsubsection}{\numberline {5.3.2}Contour Map}{xxvi}{subsubsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.4}Task 4: Global Meridional Winds}{xxvii}{subsection.5.4}% 
+\contentsline {subsubsection}{\numberline {5.4.1}Equirectangular Projection}{xxvii}{subsubsection.5.4.1}% 
+\contentsline {subsubsection}{\numberline {5.4.2}North Polar Stereographic Projection}{xxviii}{subsubsection.5.4.2}% 
+\contentsline {subsubsection}{\numberline {5.4.3}South Polar Stereographic Projection}{xxix}{subsubsection.5.4.3}% 
+\contentsline {subsubsection}{\numberline {5.4.4}Orthographic}{xxx}{subsubsection.5.4.4}% 
+\contentsline {paragraph}{\numberline {5.4.4.1}850 Millibars}{xxx}{paragraph.5.4.4.1}% 
+\contentsline {paragraph}{\numberline {5.4.4.2}250 Millibars}{xxxi}{paragraph.5.4.4.2}% 
+\contentsline {section}{\numberline {6}Anomalies: Zonal And Meridional Wind}{xxxii}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}January Vs Average Wind}{xxxii}{subsection.6.1}% 
+\contentsline {subsubsection}{\numberline {6.1.1}850 Millibars}{xxxii}{subsubsection.6.1.1}% 
+\contentsline {subsubsection}{\numberline {6.1.2}250 Millibars}{xxxiii}{subsubsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.2}July Vs Average Wind}{xxxiv}{subsection.6.2}% 
+\contentsline {subsubsection}{\numberline {6.2.1}850 Millibars}{xxxiv}{subsubsection.6.2.1}% 
+\contentsline {subsubsection}{\numberline {6.2.2}250 Millibars}{xxxv}{subsubsection.6.2.2}% 
