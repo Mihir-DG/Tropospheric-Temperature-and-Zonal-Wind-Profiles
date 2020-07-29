@@ -1,0 +1,289 @@
+\section{Module 3: Meridional Winds In The Troposphere}
+This module describes the charts related to north-south (meridional) wind with reference to the same reanalyses used throughout the length of this report. References to wind of this component have been made to describe zonal wind, but they will be expounded upon here. Here, the motion is measured in southerly values- a positive value corresponds to a northward wind.
+
+\subsection{Meridional Wind As A Function Of Latitude}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../Meridional/latitudinal_profile/htVlat.png}
+	\caption{Meridional Wind As A Function of Latitude}
+	\label{m1}
+\end{figure}
+\noindent
+The following paragraphs describe latitudinal profiles of meridional wind, considering 2 pressure belts, each with their own physical significance. The most striking aspect of Fig \ref{m1} is the apparent periodicity of the two graphs, separated by a phase difference. By and large, this is a direct effect of the 3 major circulatory cells: Hadley, Ferrel and Polar Cells. These somewhat divide the troposphere into what are effectively, closed wind circulations. The north-south component of wind is largely derived from the imbalance of the energy budget latitudinally, as shown in Fig \ref{f3}, and its subsequent redistribution. 
+\subsubsection{Idealized meridional circulation}
+The Hadley cell is derived from the energy surplus at the equator. Thermals rise through the troposphere, and are deflected poleward at the tropopause due to the inverted lapse rate. The work done on the atmosphere to increase the altitude of the air parcel results in a reduction of its internal energy, as per the first law of thermodynamics. This change in internal energy can be measured using the geopotential of the tropopause, as a function of latitude \cite{holton1973introduction}. Denoted by $ \phi $, geopotential is defined as the work that must be done against the Earth's gravitational field to raise a mass of 1 kg to that point \cite{geopotential_wallace2006atmospheric}. A latitudinal profile of the geopotential of the troposphere can be derived by observing the stationary points of vertical velocity. Vertical velocity can be defined as follows:
+\begin{equation}
+    \label{omegaeq1}
+    \omega = \frac{dp}{dt} = \frac{\partial p}{\partial t} + u \frac{\partial p}{\partial x} + v \frac{\partial p}{\partial y} + w \frac{\partial p}{\partial z}
+\end{equation}
+
+\noindent Blocked by temperature inversion at the troposphere, the thermal's net movement is directed to the poles. The air parcel travels on along a singular pressure belt given the unaltered geopotential, assuming the system is isolated. It moves into cooler regions where the density consequently, increases (keeping with the idea of the parcel being an ideal gas). When the density of lower levels increases beyond that of the thermal, it sinks back toward sea level. The initial rise of air led to a surface level movement from the tropics to the equator, and the cooler thermal contributes to this movement. Thus, an ideally-closed circulatory subsystem is created, called the Hadley cell.
+\\\\
+The mechanisms of the Hadley cell flow apply similarly to the other cells described henceforth. The energy shortage at the poles forces the dense air to sink and flow towards the equator, due to the pressure difference. The air heats up and rises again, travelling to the low pressure zone above the pole, completing the polar cell circulation.
+\\\\
+The rising air at 60$^\circ$ and the sinking air at 30$^\circ$ creates an intermediate circulation between the latitudes- the ferrel cells. Their action could be compared to that of a gear in a standard mechanical system. Here, air travels towards the poles near the ground, and toward the equator in regions near the tropopause.
+%\begin{equation}
+%d \phi = gdz
+%\end{equation}
+%Integrating, we get 
+%\begin{equation}
+%\phi (z) = \int_{0}^z g dz
+%\end{equation}
+\subsubsection{Averaged meridional circulation}
+Using Fig \ref{m1}, we can identify regions of the convergence of cells. Any joint between 2 cells will be situated at a region wherein the calculated meridional wind is 0. This is simply because it marks a difference in direction on two sides of the point. This difference could either signify a divergence or convergence of air masses, depending on the gradient. Consider a hypothetical point lying on $y=0, \frac{dy}{dx}>0$ at x. The line segment to the left of the hypothetical point is negative, so they move with a negative southerly speed, or towards the South. Similarly, the segment to the right is positive conveys  northward motion. Therefore, this point signifies a region of divergence of air. Conversely, a point who instantaneously lies similar line segment with a negative gradient is shown to be a region of convergence.
+\\\\
+Consider the area proximal to the horse latitudes at 250 mbar. These regions are centered at a 0m/s speed, both of which display a instantaneously negative gradient. As explained earlier, a potential convergence of air can be inferred from this finding. Similarly, the gradient at 60$^\circ$ latitudes are positive, implying a convergence of air. Convergence at the poles, while theoretically predicted by the Hadley model, cannot be corroborated by this standard of measure as the magnitude of these winds are low enough to be considered an anomaly across reanalyses or measurement. This is also further aggravated by the difference in altitude of the tropopause- it has been found to be situated lower near the poles \cite{hoinka1999temperature} 
+\\\\
+In lower altitudes, the described ideal sinusoidal latitudinal profile is shown more discernibly. The pervasive noise through the profile is a product of surface-level frictional interference. \textcolor{magenta}{Interestingly, there is a significant spike towards the Northern Pole.} \textcolor{red}{Could not find an explanation to this. I saw something about katabatic wind- didn't find any correlation though. Leaving the seasonal 850 mbar sections blank here because of this, will get back to that.}
+\newpage
+
+\subsection{Seasonal Meridional Wind As A Function Of Latitude}
+Seasonal differences are intimately linked to gradients in temperature. The temperature gradients change significantly with latitude, as evidenced in Fig. \ref{ts1} and Fig. \ref{ts2}. Tropical regions experience near-constant sunlight year round, considering the low zenith angle of regions in the area. As we move poleward, we see a gradual increase in zenith angle and a consequent increase in seasonal sunlight variance. 
+\subsubsection{250 Millibars}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.7\linewidth}
+	    \includegraphics[width=\linewidth]{../Meridional/seasonal/monthlyWin250.png}
+	    \caption{Monthly Meridional DJF Wind At 250 Mbar}
+	    \label{m2a}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.7\linewidth}
+	    \includegraphics[width=\linewidth]{../Meridional/seasonal/avgWin250.png}
+	    \caption{Average Meridional DJF Wind At 250 Mbar}
+	    \label{m2b}
+	\end{subfigure}
+	\caption{Meridional DJF Wind At 250 Mbar}
+	\label{m2}
+\end{figure}
+\noindent The charts above depict the latitudinal meridional wind profile from December to February, averaged over the last 10 years. In Fig \ref{m2a}, we see an even increase in meridional wind (centred at 0 m/s) in the Southern Hemisphere across the 3 months, specifically near the Hadley cell- an increasing northerly change. This is a direct result of the region's approaching winter season. During any hemispheric winter, the difference in temperature between the tropics and the equator increases, relative to that measured in the summer, simply due to the tilt of the Earth's axis. An increased temperature gradient brings about the increase in northerly nature of the wind as the winter approaches, simply due to the increased southward movement. This finding is evidenced by the separation of the monthly profiles and the downward shift across the given time period.
+\\\\
+Drawing our attention to Fig \ref{m2b}, we can draw an immediate correlation with the above statement and the figure. The average profile very closely resembles the median profile (January) in Fig \ref{m2a}. This observation promotes the previous stipulation where there is an almost seasonal linear progression of meridional wind. Considering the major latitudes of interest, we see a convergent movement at the 60$^\circ$ north and south degrees. This is evidenced by the positive gradient centred at 0 m/s in the regions. Similarly, the observed negative gradient centred at 0 m/s in the 30$^\circ$ degrees conveys divergence. These complimentary features keep with the Hadley model, describing its upper belt predictions. 
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.7\linewidth}
+	\includegraphics[width=\linewidth]{../Meridional/seasonal/monthlySum250.png}
+	\caption{Monthly JJA Meridional Wind At 250 Mbar}
+	\label{m3a}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.7\linewidth}
+	\includegraphics[width=\linewidth]{../Meridional/seasonal/avgSum250.png}
+	\caption{Average JJA Meridional Wind At 250 Mbar}
+	\label{m3b}
+	\end{subfigure}
+	\caption{Meridional JJA Wind At 250 Mbar}
+	\label{m3}
+\end{figure}
+Figure \ref{m3a} describes an effect opposite to that shown in \ref{m2a}. The increasing southerly wind here describes a reduction in the magnitude of the northward wind seen in the DJF period. The reduced temperature gradient described previously reduces the rate at which heat is distributed, and therefore, the magnitude of the northerly wind. As seen previously, Figure \ref{m3b} appears to be an approximate reproduction of the July profile in \ref{m3a}, supporting previous statements describing a linear progression in changes of the nature of wind.  
+\subsubsection{850 Millibars}
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.7\linewidth}
+	    \includegraphics[width=\linewidth]{../Meridional/seasonal/monthlyWin850.png}
+	    \caption{Monthly Meridional DJF Wind At 850 Mbar}
+	    \label{m4a}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.7\linewidth}
+	    \includegraphics[width=\linewidth]{../Meridional/seasonal/avgWin850.png}
+	    \caption{Average Meridional DJF Wind At 850 Mbar}
+	    \label{m4b}
+	\end{subfigure}
+	\caption{Meridional DJF Wind At 850 Mbar}
+	\label{m4}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.7\linewidth}
+	\includegraphics[width=\linewidth]{../Meridional/seasonal/monthlySum850.png}
+	\caption{Monthly JJA Meridional Wind At 850 Mbar}
+	\label{m5a}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.7\linewidth}
+	\includegraphics[width=\linewidth]{../Meridional/seasonal/avgSum850.png}
+	\caption{Average JJA Meridional Wind At 850 Mbar}
+	\label{m5b}
+	\end{subfigure}
+	\caption{Meridional JJA Wind At 850 Mbar}
+	\label{m5}
+\end{figure}
+\textcolor{red}{LEAVING THIS BLANK- UNSURE OF THE SPIKE NEAR THE NORTHERN POLE. Also, should I be looking at 925 mbar, for example? At 850 millibars, wind seems to largely move in the z-direction. The surface-level large-scale winds appear to be centered at the 925 mbar altitude. Let me know, I can recalculate these graphs at 925 mbar.}
+\\\\
+\clearpage
+\subsection{Meridional Wind As A Function of Latitude And Altitude}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../Meridional/contour/colormap.png}
+	\caption{Colour Map}
+	\label{m6}
+\end{figure}
+\noindent Viewing Figure \ref{m6} as differentials of latitudinal profiles of meridional wind across various altitudes, the complimentary cell-based observations made previously come into light. For most stronger bands of cell activity, there are corresponding winds near the tropopause in a the other direction. This pattern, combined with the clear differences in these latitudinal bands further corroborate the Hadley model. While previously hidden from view, we also notice the absence of prominent winds of this component in the middle altitudes. The $z$ component of wind is prominent in these regions. Figure \ref{m7} further describes these regions of northward and southward wind.
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../Meridional/contour/contour_plot.png}
+	\caption{Contour Map}
+	\label{m7}
+\end{figure}
+
+\subsection{Global Meridional Winds}
+These following plots are categorized into various projections. The data is plotted spatially on two dimensions at various levels.
+The plots are made at various projections to highlight different zones.
+\subsubsection{Equirectangular Projection}
+\begin{figure}[h!]
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{../Meridional/heatmap/Standard/850.png}
+		\caption{Equirectangular Projection, 850 Millibars}
+	\end{subfigure}
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{../Meridional/heatmap/Standard/250.png}
+		\caption{Equirectangular Projection,  250 Millibars}
+	\end{subfigure}
+	\caption{Equirectangular Projection}
+\end{figure}
+\noindent Across both of the levels, we see northward and southward wind in a checked pattern. For the most part, the longitudinal differences in meridional wind are consequences of the circulations associated with cyclones and anticyclones. The angle of this propagation is due to the influence of the Coriolis force. 
+\subsubsection{North Polar Stereographic Projection}
+\begin{figure}[h!]
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.85\linewidth]{../Meridional/heatmap/North_Polar_Stereo/850.png}
+		\caption{North Polar Stereographic Projection, 850 Millibars}
+	\end{subfigure}
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.85\linewidth]{../Meridional/heatmap/North_Polar_Stereo/250.png}
+		\caption{North Polar Stereographic Projection, 250 Millibars}
+	\end{subfigure}
+	\caption{North Polar Stereographic Projection}
+\end{figure}
+\newpage
+\subsubsection{South Polar Stereographic Projection}
+\begin{figure}[h!]
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.85\linewidth]{../Meridional/heatmap/South_Polar_Stereo/850.png}
+		\caption{South Polar Stereographic Projection, 850 Millibars}
+	\end{subfigure}
+	\begin{subfigure}[b]{\linewidth}
+		\centering
+		\includegraphics[width=0.85\linewidth]{../Meridional/heatmap/South_Polar_Stereo/250.png}
+		\caption{South Polar Stereographic Projection, 250 Millibars}
+	\end{subfigure}
+	\caption{South Polar Stereographic Projection}
+\end{figure}
+\noindent We see similar results at the South Pole as we did at the North Pole- while they travel in alternating directions at lower altitudes. They curve at higher altitudes.
+\newpage
+\subsubsection{Orthographic}
+This view is used to create visually-appealing maps without significant distortion. We made 360 perspectives with different central longitudes. Links to the full videos can be found below. 360 images were layered into a video at 12 frames per second, creating a 24 second video, for each level.
+\paragraph{850 Millibars}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/0.png}
+		\caption{Orthographic Projection, Central Longitude: 0$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/60.png}
+		\caption{Orthographic Projection, Central Longitude: 60$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/120.png}
+		\caption{Orthographic Projection, Central Longitude: 120$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/180.png}
+		\caption{Orthographic Projection, Central Longitude: 180$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/240.png}
+		\caption{Orthographic Projection, Central Longitude: 240$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/850mbar/300.png}
+		\caption{Orthographic Projection, Central Longitude: 300$^\circ$}
+	\end{subfigure}
+	\caption{Orthographic Projection At 850 Millibars}
+\end{figure}
+\newpage
+\paragraph{250 Millibars}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/0.png}
+		\caption{Orthographic Projection, Central Longitude: 0$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/60.png}
+		\caption{Orthographic Projection, Central Longitude: 60$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/120.png}
+		\caption{Orthographic Projection, Central Longitude: 120$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/180.png}
+		\caption{Orthographic Projection, Central Longitude: 180$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/240.png}
+		\caption{Orthographic Projection, Central Longitude: 240$^\circ$}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45545\linewidth}
+		\includegraphics[width=\linewidth]{../Meridional/heatmap/250mbar/300.png}
+		\caption{Orthographic Projection, Central Longitude: 300$^\circ$}
+	\end{subfigure}
+	\caption{Orthographic Projection At 250 Millibars}
+\end{figure}
+\newpage
+\section{Anomalies: Zonal And Meridional Wind}
+This section highlights the differences between average winds and winds for certain months at specified altitudes. There is a colour map on each of the following plots of the section- which is the average magnitude across the globe .We express these winds in terms of vectors, with the following components:
+\begin{itemize}
+	\item x-component: Zonal Wind (East-West Wind)
+	\item y-component: Meridional Wind (North-South Wind)
+\end{itemize} 
+For every month, we will look at two altitudes- 250 millibars and 850 millibars.
+\subsection{January Vs Average Wind}
+January is used for standard anomalies for all of the winter months.
+\subsubsection{850 Millibars}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.85\linewidth]{../Anomalies/250anomalies/jan850.png}
+	\caption{January Wind Vs Average Wind, 850 Millibars}
+\end{figure}
+\newpage
+\noindent The major difference is the northward wind with a slight westward deviation, at the 60$^\circ$ N latitude. This is due to the lower temperature during the winter. The Equator, while cooler, still receives a significant amount of sunlight, while the poles receive almost none.\\
+This creates a larger than average temperature difference between the North Pole and the Equator. This difference forces the wind northwards at a higher-than-average speed.
+\subsubsection{250 Millibars}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.85\linewidth]{../Anomalies/250anomalies/jan250.png}
+	\caption{January Wind Vs Average Wind, 250 Millibars}
+\end{figure}
+\noindent We see similar changes in direction at this level, as meridional wind, unlike zonal wind, does not change with altitude. The wind veers eastwards at this level, as the zonal winds are extremely strong here.
+\newpage
+\subsection{July Vs Average Wind}
+July is used for standard anomalies for all of the summer months.
+\subsubsection{850 Millibars}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.95\linewidth]{../Anomalies/250anomalies/july850.png}
+	\caption{July Wind Vs Average Wind, 850 Millibars}
+\end{figure}
+\noindent We see a convergence of wind at the 30$^\circ$S latitude. Air moves southwards from the equator, and northwards from the Southern Ocean. The high heat at the equator during the summer causes the air to rise and spread out into lower pressure areas, such as the tropics, in this case. The Southern Ocean has a higher than average temperature, causing the rising air to move towards the lower pressure tropics.  
+\\\\
+The Equator's sheer heat causes the air above it to move quickly up to the tropics, to a lower pressure area.
+\subsubsection{250 Millibars}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.95\linewidth]{../Anomalies/250anomalies/july250.png}
+	\caption{July Wind Vs Average Wind, 250 Millibars}
+\end{figure}
+\noindent We see similar winds at this altitude, with the exception of the wind veering eastwards. The reason behind this is that the change is meridional, and meridional wind does not change with altitude. The wind veers eastward because at this height, zonal wind influences the wind, forcing it eastward.
+\newpage
+
+\bibliography{documentation}{}
+%\bibliographystyle{plain}
+\bibliographystyle{apalike}
+\end{document}
