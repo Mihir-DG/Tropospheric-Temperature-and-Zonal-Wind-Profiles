@@ -1,6 +1,6 @@
 # Tropospheric-Temperature-and-Zonal-Wind-Profiles
 
-Evaluates tropospheric temperature and zonal wind pressure profiles over a variety of projections. The final output is displayed in a report (PDF) entitled 'Temperature And Winds In The Troposhere' that can be found in the main directory. 
+Evaluates tropospheric temperature and zonal wind pressure profiles over a variety of projections. The final output is displayed in a report (PDF) entitled 'Temperature And Winds In The Troposhere' that can be found in the root directory. 
 
 The code is split up into 3 factions: 
 
