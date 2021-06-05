@@ -16,3 +16,11 @@ Most profiles were evaluated at the 850 mbar and 250 mbar pressure levels, to pr
 3. Contour plots and heatmaps for longitudinally-averaged altitude-latitudinal profiles.
 4. Equirectangular global profiles
 5. Orthographic global profiles.
+
+## Dependencies: ##
+All programs were written in Python 2.7, with all packages installed using pip 2.18.0.
+1. *netCDF4 v1.5.2*: Read dataset information to numpy arrays.
+2. *numpy 1.19.5*: Extracts significant profiles primarily through its array class.
+3. *Cartopy 0.19.2*: Creates global basemaps adaptable to various projections.
+4. *Matplotlib 3.3.4*: Primary visualization tool.
+5. *pathlib 1.0.1*: Internal file handling.
